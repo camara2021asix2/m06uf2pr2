@@ -1,0 +1,3 @@
+Programes: script1.sh i script2.sh
+Permissos: chmod +x *.sh
+Execució: sudo bash script1.sh i sudo bash script2.sh
